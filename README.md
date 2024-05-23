@@ -46,6 +46,15 @@ Para utilizar este script, sigue estos pasos:
 - **Configuración de Entorno**: Configura las variables de entorno necesarias y las añade al `.bashrc`.
 - **Compilación**: Compila Seismic Unix y opcionalmente otros componentes como X-toolkit.
 
+## Probar instalación
+```bash
+sushw key=delrt a=100 < /dev/zero | suspike ntr=30 nspk=1 d1=0.004 d2=1 | suaddnoise sn=10 > test_data.su
+ ```
+
+```bash
+suxwigb < test_data.su title="Test Data Display" &
+```
+
 ## Contribuir
 
 Si deseas contribuir al script, ya sea con mejoras, correcciones de errores o nuevas funcionalidades, no dudes en hacer un fork del repositorio y enviar tus pull requests.
