@@ -19,7 +19,7 @@ Este script está probado para Ubuntu 24.01 LTS y podría no ser compatible con 
 
 Para utilizar este script, sigue estos pasos:
 
-1. **Descargar el Script**: Clona este repositorio o descarga el script `install_seismic_unix.sh` directamente en tu máquina local.
+1. **Descargar el Script**: Clona este repositorio o descarga el script `instalar_seismic_unix.sh` directamente en tu máquina local.
 
     ```bash
     git clone https://github.com/LavRyzen/instalar_seismic_unix
