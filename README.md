@@ -2,11 +2,6 @@
 
 Este script facilita la instalación de Seismic Unix 44R28 en sistemas Ubuntu 24.01 LTS. Automatiza el proceso de descarga, verificación e instalación de las dependencias necesarias, así como la compilación del código fuente.
 
-## Autores
-
-- Juan Gerardo Peña
-- LavRyzen
-
 ## Fecha
 
 - 22 de mayo de 2024
