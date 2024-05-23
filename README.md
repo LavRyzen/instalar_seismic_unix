@@ -46,6 +46,13 @@ Para utilizar este script, sigue estos pasos:
 - **Configuración de Entorno**: Configura las variables de entorno necesarias y las añade al `.bashrc`.
 - **Compilación**: Compila Seismic Unix y opcionalmente otros componentes como X-toolkit.
 
+## Contribuir
+
+Si deseas contribuir al script, ya sea con mejoras, correcciones de errores o nuevas funcionalidades, no dudes en hacer un fork del repositorio y enviar tus pull requests.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
 ## Agradecimientos
 
