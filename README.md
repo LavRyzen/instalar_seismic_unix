@@ -52,7 +52,7 @@ Si deseas contribuir al script, ya sea con mejoras, correcciones de errores o nu
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Agradecimientos
 
